@@ -1,0 +1,43 @@
+# Discord bot dependencies
+discord.py>=2.3.0
+
+# Google AI/ML dependencies
+google-generativeai>=0.8.0
+google-genai>=1.0.0
+google-api-python-client>=2.0.0
+
+# Machine Learning / NLP
+transformers>=4.30.0
+torch>=2.0.0
+pillow>=10.0.0
+
+# Data processing
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# Web requests
+aiohttp>=3.8.0
+
+# Environment and configuration
+python-dotenv>=1.0.0
+
+# Async utilities
+nest-asyncio>=1.5.0
+
+# Data validation
+pydantic>=2.0.0
+
+# Database (built-in with Python)
+# sqlite3 - included with Python standard library
+
+# Additional utilities
+# difflib - included with Python standard library
+# datetime - included with Python standard library
+# json - included with Python standard library
+# csv - included with Python standard library
+# re - included with Python standard library
+# traceback - included with Python standard library
+# asyncio - included with Python standard library
+# io - included with Python standard library
+# os - included with Python standard library
