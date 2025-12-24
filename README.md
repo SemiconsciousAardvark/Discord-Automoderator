@@ -1,4 +1,4 @@
-# Discord Political Automoderator 
+# Discord Political Automoderator [files being uploaded]
 ### Licensed under AGPLv3
 
 Version 1.0.0- fully functional but has not been tested outside of a custom server bot environment. Image moderation has not been tested beyond the first filter. Modlog settings are designed to integrate with YAGPDB.xyz and might not work without use of that bot. Most code is original, with Claude Code (Sonnet 4.5) used for organization and optimization.
