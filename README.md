@@ -1,7 +1,7 @@
 # Discord Political Automoderator 
 ### Licensed under AGPLv3
 
-Version 1.0.0- fully functional but has not been tested outside of a custom server bot environment. Image moderation has not been tested. Modlog settings are designed to integrate with YAGPDB.xyz and might not work without use of that bot. Most code is original, with Claude Code (Sonnet 4.5) used for organization and optimization.
+Version 1.0.0- fully functional but has not been tested outside of a custom server bot environment. Image moderation has not been tested beyond the first filter. Modlog settings are designed to integrate with YAGPDB.xyz and might not work without use of that bot. Most code is original, with Claude Code (Sonnet 4.5) used for organization and optimization.
 
 This bot was developed as a side project to help manage Discord debate/politics communities and help eliminate moderator bias and inactivity.
 It has a near- to above- human level accuracy in active and neutral chat moderation for the tested purposes (i.e. political environments).
